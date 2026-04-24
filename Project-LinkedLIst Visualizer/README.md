@@ -1,0 +1,1 @@
+This is linked list visualizer. It is a web application that allows users to visualize linked list operations. Users can visualize insertion, deletion, search, and sorting operations in a linked list.
